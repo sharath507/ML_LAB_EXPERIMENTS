@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+seaborn
+jupyter
+notebook
+scipy
+joblib
+opencv-python
+statsmodels
